@@ -1,4 +1,4 @@
-# 🔎 Port Scan Threat Hunt — Internal Network Investigation (Cyber Range)
+# 🧠 MDE Threat Hunting Lab – Sudden Network Slowdowns
 
 ## 🧭 Overview
 
